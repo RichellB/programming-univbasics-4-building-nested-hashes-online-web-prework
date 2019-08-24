@@ -26,7 +26,7 @@ def monopoly_with_third_tier
   
    food = {
 	  :railroads => {pieces: 4, :rent_in_dollars => {
-	    :names => "", age: "", weight: "", height: ""}
+	    :names, age: "", weight: "", height: ""}
 	    
 	  }
 	}
