@@ -25,9 +25,10 @@ def monopoly_with_third_tier
   # complexity.
   
    food = {
-	  :railroads => {pieces: 4, :names => "", :rent_in_dollars => {
+	  :railroads => {pieces: 4, :rent_in_dollars => {
 	    name: "", age: "", weight: "", height: ""}
-	    
+	    :names => {
+	      name1: "", name2: "", name3: "", name4: ""}
 	  }
 	}
 	food 
